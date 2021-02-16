@@ -1,4 +1,4 @@
-# entewaweyentehtasheke
+# Entewaweyentehtà:sheke'
 
 ## Project setup
 ```
